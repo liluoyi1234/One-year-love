@@ -21,7 +21,7 @@ avatarURL = "images/avatar.jpg"
 footerContent = "365 days"
 dateFormat = "January 2, 2006"
 hideFooter = false
-hideCredits = ture
+hideCredits = true
 hideCopyright = false
 since = 2020
 # Git Commit in Footer, uncomment the line below to enable it
