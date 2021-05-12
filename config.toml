@@ -1,5 +1,5 @@
 baseURL = "http://www.seanlaw.cn"
-title = "365"
+title = "One year"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -108,10 +108,10 @@ title = "一年"
 
 [languages.pt-br.params]
 author = "李罗懿和冉光丽"
-info = "2020/05/24-2021/05/24"
+info = "一周年纪念"
 description = "365 days"
 keywords = "blog,desenvolvedor,pessoal"
-footerContent = "一周年纪念"
+footerContent = "2020/05/24-2021/05/24"
 
 [[languages.pt-br.menu.main]]
 name = "❤️"
