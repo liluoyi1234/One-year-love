@@ -114,21 +114,21 @@ keywords = "blog,desenvolvedor,pessoal"
 footerContent = "one year"
 
 [[languages.pt-br.menu.main]]
-name = "Sobre"
+name = "❤️"
 weight = 1
 url = "about/"
 
 [[languages.pt-br.menu.main]]
-name = "Blog"
+name = "✉️"
 weight = 2
 url = "posts/"
 
 [[languages.pt-br.menu.main]]
-name = "Projetos"
+name = "⛺️"
 weight = 3
 url = "projects/"
 
 [[languages.pt-br.menu.main]]
-name = "Contato"
+name = "☎️"
 weight = 5
 url = "contact/"
