@@ -1,19 +1,19 @@
 +++
 author = "Hugo Authors"
-title = "Conteúdo Rico"
+title = "Rich Content"
 date = "2019-03-10"
-description = "Uma breve descrição sobre Shortcodes do Hugo"
+description = "A brief description of Hugo Shortcodes"
 tags = [
     "shortcodes",
     "privacy",
 ]
 +++
 
-O Hugo vem com vários [Shortcodes Internos](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) para conteúdo rico, assim como uma [Configuração de Privacidade](https://gohugo.io/about/hugo-and-gdpr/) e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.
+Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
 <!--more-->
 ---
 
-## Shortcode do YouTube com privacidade melhorada
+## YouTube Privacy Enhanced Shortcode
 
 {{< youtube ZJthWmvUzzc >}}
 
@@ -21,7 +21,7 @@ O Hugo vem com vários [Shortcodes Internos](https://gohugo.io/content-managemen
 
 ---
 
-## Shortcode simples do Twitter
+## Twitter Simple Shortcode
 
 {{< twitter_simple 1085870671291310081 >}}
 
@@ -29,6 +29,6 @@ O Hugo vem com vários [Shortcodes Internos](https://gohugo.io/content-managemen
 
 ---
 
-## Shortcode simples do Vimeo
+## Vimeo Simple Shortcode
 
 {{< vimeo_simple 48912912 >}}
