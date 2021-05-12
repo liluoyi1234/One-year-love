@@ -123,15 +123,15 @@ weight = 5
 url = "contact/"
 
 [languages.pt-br]
-languageName = ":china:"
+languageName = "❤️"
 title = "一年"
 
 [languages.pt-br.params]
 author = "L&R"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
+info = "one year"
+description = "365 days"
 keywords = "blog,desenvolvedor,pessoal"
-footerContent = "Coloque algum texto aqui."
+footerContent = "one year"
 
 [[languages.pt-br.menu.main]]
 name = "Sobre"
