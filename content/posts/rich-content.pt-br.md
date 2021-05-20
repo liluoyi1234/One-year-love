@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = ""
+title = "LOVE BEGIN"
 date = "2020-05-24"
 description = "A brief description of Hugo Shortcodes"
 tags = [
