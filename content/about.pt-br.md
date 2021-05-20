@@ -7,4 +7,4 @@ author = "Hugo Authors"
 
 +++
 
-![LOVE](https://cdn.jsdelivr.net/gh/liluoyi1234/pic@main/uPic/Dk2x0H.png)
+![LOVE](../static/images/I-love-you.jpg)
