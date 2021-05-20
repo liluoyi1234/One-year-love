@@ -7,4 +7,4 @@ author = "Hugo Authors"
 
 +++
 
-![LOVE](../static/images/I-love-you.jpg)
+![LOVE](/images/I-love-you.jpg)
